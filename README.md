@@ -1,2 +1,2 @@
 # GCA101LNTCP
-GCA101 Firmware for LNTCP protocol (same as DR5000)
+GCA101 Firmware for LNTCP protocol (BETA version)
